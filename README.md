@@ -1,2 +1,2 @@
-# Analisis_Biomecanico
+# Análisis Biomecánico
 Análisis biomecánico de salto largo
